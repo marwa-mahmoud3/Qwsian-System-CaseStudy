@@ -55,5 +55,4 @@ Note: All project interface captures, dashboard previews, and user flow diagrams
 
 To respect intellectual property rights, the source code is hosted in a Private Repository. This Case Study is intentionally designed to showcase System Architecture, Complex SQL Integrations, and Advanced UI/UX Design skills through documentation and visual assets.
 
----
 ----
